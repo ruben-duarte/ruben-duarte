@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Ruben Duarte Anaya</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Ruben Duarte Anaya
 <h4 align="center">A passionate backend developer Junior Fullstack from Colombia, Mechanical Engineer, Maintenance Management Specialist with experience in HTML, CSS, Python, numpy, pandas, JavaScript, nodeJs and Django who enjoys solving real world problems and maintenance in the energy, water, manufacturing and floricultor sectors.</h4>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlOWQ1NTJlYmZiYThlNWRhZDFiZjEzZGQ1NWQ2N2RmMWRkZWUwMiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
