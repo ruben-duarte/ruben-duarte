@@ -3,7 +3,7 @@
 <br>
 <h5 align="center"> Mechanical Engineer, Maintenance Management Specialist with experience in HTML, CSS, Python, numpy, pandas, JavaScript, nodeJs and Django who enjoys solving real world problems and maintenance in the energy, water, manufacturing and floricultor sectors.</h5>
 
-<img align="right" alt="coding" width="350" border-radius: 4px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlOWQ1NTJlYmZiYThlNWRhZDFiZjEzZGQ1NWQ2N2RmMWRkZWUwMiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlOWQ1NTJlYmZiYThlNWRhZDFiZjEzZGQ1NWQ2N2RmMWRkZWUwMiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruben-duarte&label=Profile%20views&color=0e75b6&style=flat" alt="ruben-duarte" /> </p>
