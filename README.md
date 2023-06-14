@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **La FisioTP and Portfolio**
 
-- 🌱 I’m currently learning **Django React and AWS**
+- 🌱 I’m currently learning **Django Docker React and AWS**
 
 - ⚡ Fun fact **I love learning Languages(Spanish,English,Portuguese),Technologies,programming languages,Math and Science**
 
