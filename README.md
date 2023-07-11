@@ -1,12 +1,20 @@
-<h1 align="center"> Hi,<span> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="hand">  </span> I'm Ruben Duarte Anaya </h1>
+<h1 align="center"> Hi,<span> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" alt="hand">  </span> I'm Ruben Duarte Anaya </h1>
 <h4 align="center"><em>🚀 A passionate backend developer Junior Fullstack from Colombia</em> </h4> 
---
-<h5 align="center"> Mechanical Engineer, Maintenance Management Specialist with experience in HTML, CSS, Python, django numpy, pandas, JavaScript, nodeJs and Java who enjoys solving real world problems in the technology, energy, water and manufacturing sectors.</h5>
+__
+| About     |   me     | 
+| :-------- | :------- | 
+|    🍜     |    🍣   |                    
 
-<img align="right" alt="coding" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlOWQ1NTJlYmZiYThlNWRhZDFiZjEzZGQ1NWQ2N2RmMWRkZWUwMiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+- Mechanical Engineer, Maintenance Management Specialist
+- Experience in HTML, CSS, Python, django numpy, pandas, JavaScript, nodeJs and Java 
+- who enjoys solving real world problems in the technology, energy, water and manufacturing sectors.
+
+<img align="right" alt="coding" width="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlOWQ1NTJlYmZiYThlNWRhZDFiZjEzZGQ1NWQ2N2RmMWRkZWUwMiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruben-duarte&label=Profile%20views&color=0e75b6&style=flat" alt="ruben-duarte" /> </p>
+
+# Now
 
 - 🔭 I’m currently working on **La FisioTP and Portfolio**
 
