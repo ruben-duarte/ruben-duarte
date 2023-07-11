@@ -1,5 +1,5 @@
 <h1 align="center"> Hi,<span> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="hand">  </span> I'm Ruben Duarte Anaya </h1>
-<h4 align="center">A passionate backend developer Junior Fullstack from Colombia </h4> 
+<h4 align="center">**A passionate backend developer Junior Fullstack from Colombia** </h4> 
 <br>
 <h5 align="center"> Mechanical Engineer, Maintenance Management Specialist with experience in HTML, CSS, Python, numpy, pandas, JavaScript, nodeJs and Django who enjoys solving real world problems and maintenance in the energy, water, manufacturing and floricultor sectors.</h5>
 
