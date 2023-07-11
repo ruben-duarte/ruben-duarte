@@ -1,20 +1,24 @@
 <h1 align="center"> Hi,<span> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20" alt="hand">  </span> I'm Ruben Duarte Anaya </h1>
 <h4 align="center"><em>🚀 A passionate backend developer Junior Fullstack from Colombia, 🛰  Mechanical Engineer, Maintenance Management Specialist</em> </h4> 
 
-## About me
+### About me
                  
-- 💻 Experience in HTML, CSS, Python, django numpy, pandas, JavaScript, nodeJs and Java 
-- 🎨 Who enjoys solving real world problems in the technology, energy, water and manufacturing sectors.
+- 💻 Experience in JavaScript, Python,Java 
+- HTML, CSS, django numpy, pandas, nodeJs 
+- 🎨 Who enjoys solving real world problems
+- in the technology, energy, water and manufacturing sectors.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruben-duarte&label=Profile%20views&color=0e75b6&style=flat" alt="ruben-duarte" /> </p>
 
-## Now
+### Now
 
 - 🔭 I’m currently working on **La FisioTP and Portfolio**
 
 - 🌱 I’m currently learning **Django Docker React and AWS**
 
-- ⚡ Fun fact **I love learning Languages(Spanish,English,Portuguese),Technologies,programming languages,Math and Science**
+- ⚡ Fun fact **I love learning Languages(Spanish,English,Portuguese),
+  
+- Technologies,programming languages,Math and Science**
 
 - 👨‍💻 All of my projects are available at [https://ruben-duarte.github.io/Portfolio/](https://ruben-duarte.github.io/Portfolio/)
 
