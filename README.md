@@ -1,11 +1,8 @@
 <h1 align="center"> Hi,<span> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" alt="hand">  </span> I'm Ruben Duarte Anaya </h1>
-<h4 align="center"><em>🚀 A passionate backend developer Junior Fullstack from Colombia</em> </h4> 
-__
+<h4 align="center"><em>🚀 A passionate backend developer Junior Fullstack from Colombia, 🛰  Mechanical Engineer, Maintenance Management Specialist</em> </h4> 
 ## About me
-| :-------- | :-------: | 
 |    🍜.   |    🍣     |                    
 
-- 🛰  Mechanical Engineer, Maintenance Management Specialist
 - 💻 Experience in HTML, CSS, Python, django numpy, pandas, JavaScript, nodeJs and Java 
 - 🎨 Who enjoys solving real world problems in the technology, energy, water and manufacturing sectors.
 
