@@ -12,7 +12,7 @@
 
 ### Now
 
-- 🔭 I’m currently working on **Trabook with Peaku and Portfolio**
+- 🔭 I’m currently working on **Bambucod project coding challenges app using Nextjs, SpringBoot and Postgresql with Peaku and Portfolio**
 - 🌱 I’m currently learning **Django Docker React and AWS**
 - ⚡ Fun fact **I love learning Languages(Spanish,English,Portuguese),
 - Technologies,programming languages,Math and Science**
